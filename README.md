@@ -1,16 +1,12 @@
-### Hi there 👋
+<h1 align="center"> Hi,I'm Marwan 👽</h1>
+<p align="ceter">i'm a frond-end developer  currently looking for new oportunities
+<br>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/maro-khlifa-1172b124a/"><i class="fa-brands fa-linkedin-in"></i></a>
+<a href="https://www.facebook.com/maro.khlifa.9/"><i class="fa-brands fa-facebook"></i></a>
+<a href="https://www.instagram.com/marokhlifa/"><i class="fa-brands fa-instagram"></i></a>
+</p>
+Currently I am using some features and working on self-development to learn more and more <br>
+<p align="ceter"><i class="fa-brands fa-html5"></i><i class="fa-brands fa-js"></i><i class="fa-brands fa-css3-alt"></i><i class="fa-brands fa-bootstrap"></i><i class="fa-brands fa-wordpress"></i></p> 
 
-<!--
-**Marwankhlifa/MarwanKhlifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
