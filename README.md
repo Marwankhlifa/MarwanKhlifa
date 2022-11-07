@@ -1,6 +1,6 @@
 <h1 align="center"> Hi,I'm Marwan 👽</h1>
 <p align="center"> 
-<a class="fa-brands fa-linkedin-in" href="https://www.linkedin.com/in/maro-khlifa-1172b124a/"></a>
+<a href="https://www.linkedin.com/in/maro-khlifa-1172b124a/"></a>
 <a href="https://www.facebook.com/maro.khlifa.9/",        <i class="fa-brands fa-facebook">></i></a>
 <a href="https://www.instagram.com/marokhlifa/"><i class="fa-brands fa-instagram"></i></a>
 <p align="ceter">i'm a frond-end developer  currently looking for new oportunities
