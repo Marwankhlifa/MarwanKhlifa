@@ -1,5 +1,4 @@
 <h1 align="center"> Hi,I'm Marwan 👽</h1>
-<br>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/maro-khlifa-1172b124a/",   <i class="fa-brands fa-linkedin-in"></i>></a>
 <a href="https://www.facebook.com/maro.khlifa.9/",        <i class="fa-brands fa-facebook">></i></a>
