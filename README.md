@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marwan and I'm a Front End Developer & UI/UX Designer  </h2>
+<h2 align="left">Hi 👋! My name is Marwan and I'm a  UI/UX Designer & UI Developer </h2>
 
 ###
 
